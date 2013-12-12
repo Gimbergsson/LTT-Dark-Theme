@@ -1,4 +1,4 @@
-LTT Dark Theme, Git hub
+LTT Dark Theme on GitHub!
 ==============
 You are free to do Pull Requests but i need to verify the changes first and that can take some time!
 
