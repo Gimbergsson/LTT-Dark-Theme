@@ -9,3 +9,16 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+.git/
+_notes/
+.gitignore.rej
+.gitignore
+linustech_buttons.png
+logo.png
+logo_2.png
+logo_old.jpg
+ltt_auto_update.png
+name.png
+roboto.ttf
+Thumbs.db
